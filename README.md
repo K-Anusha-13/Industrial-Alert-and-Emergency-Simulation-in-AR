@@ -48,9 +48,9 @@ Each scenario includes:
 
 ### Performance Tracking
 
-* Live timer ⏱️
-* Score calculation 🎯
-* Progress tracking bar 📈
+* Live timer 
+* Score calculation 
+* Progress tracking bar 
 * Completion-based evaluation
 
 ---
@@ -116,7 +116,7 @@ cd industrial-ar-simulator
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. Select an emergency scenario
 2. Hazards appear dynamically on the factory layout
